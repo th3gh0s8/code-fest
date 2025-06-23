@@ -1,0 +1,29 @@
+.header{
+
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+	background-color: activeborder;
+
+}
+
+.footer{
+
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+	background-color: activeborder;
+
+}
+
+
+.menu{
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-between;
+	width: 350px;
+	list-style-type: none;
+}
+
