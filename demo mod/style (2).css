@@ -1,0 +1,89 @@
+.b{
+    
+    background-image: url("laptop.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.b12{
+     background-image: url("laptop3.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.b6{
+     background-image: url("laptop5.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.b7{
+     background-image: url("laptop6.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.f{
+    margin-left: 400px;
+    
+    
+}
+.a1{
+    
+    background-image: url("user.png");
+    background-size: cover;
+}
+.ab{
+    margin-top: 400px;
+    
+}
+.td1{
+    
+    width: 500px
+}
+.d1{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    background-color: transparent;
+    
+    
+}
+.h1{
+    color: white;
+    font-size: 24px;
+    margin-left: 480px;
+    
+    
+}
+.b3{
+    background-color: aqua;
+    
+    
+}
+.bb{
+    
+    
+    background-image: url("laptop4.jpg");
+    background-size: cover;
+    
+}
+.b111{
+    width: 100px;
+    border-radius: 10px;
+     
+    
+}
+.b111:hover{
+    background-color: gray;
+    cursor: pointer;
+    outline: none;
+    
+}
